@@ -1,0 +1,22 @@
+/.gradle/
+**/.DS_Store
+**/build/
+**/classes/
+
+### IntelliJ IDEA ###
+/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+**/out/
+**/.shelf
+
+### Zipped archives ###
+**/*.tar
+**/*.jar
+
+### Don't ignore ###
+!gradle-wrapper.jar.gradletasknamecache
+.gradletasknamecache
+!sapidoc3.jar
+!sapjco3.jar
