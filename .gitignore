@@ -16,7 +16,4 @@
 **/*.jar
 
 ### Don't ignore ###
-!gradle-wrapper.jar.gradletasknamecache
-.gradletasknamecache
-!sapidoc3.jar
-!sapjco3.jar
+!gradle-wrapper.jar
