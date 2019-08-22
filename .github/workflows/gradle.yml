@@ -1,4 +1,4 @@
-name: Java CI
+name: Standard CI
 
 on: [push]
 
